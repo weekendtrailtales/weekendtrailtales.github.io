@@ -21,7 +21,7 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://weekendtrailtales.github.io'
 baseurl: ''
 title: 'My website'
 description: 'This is my new website'
