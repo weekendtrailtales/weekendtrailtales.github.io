@@ -1,17 +1,12 @@
 ---
-title: Backpacking at Viewpoint Beach, Golden Ears Park
+title: Hiking List - North Shore, BC
 categories:
-- Backpacking
+-Hiking
 excerpt: |
-  Stats: 
-    Distance: 5km 
-    Elevation: 200m
-    Time: 1.5hr
-    Difficulty: Easy
-    Facilities: Washroom, Bear cache, Water source (river)
+  From peakbagger.com
 feature_text: |
-  ## Viewpoint Beach, Golden Ears Park
-  The perfect 1st timer's backpacking trip
+  ## Hiking List - North Shore, BC
+  From peakbagger.com
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
@@ -20,4 +15,3 @@ image: "https://picsum.photos/2560/600?image=733"
 |----------|:--------:|---------:|
 | Left     | Center   | Right    |
 | aligned  | aligned  | aligned  |
-sdsds
