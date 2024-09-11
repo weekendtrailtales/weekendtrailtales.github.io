@@ -1,7 +1,7 @@
 ---
 title: Hiking List - North Shore, BC
 categories:
--Hiking
+- Hiking
 excerpt: |
   From peakbagger.com
 feature_text: |
