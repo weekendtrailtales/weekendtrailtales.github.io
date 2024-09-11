@@ -12,8 +12,8 @@ image: "https://picsum.photos/2560/600?image=733"
 ---
 
 
-| Rank	| Peak	| Section	| Elev-M	| Completed| 
-|----------|:--------:|---------:|:--------:|---------:|				
+| Rank	| Peak	| Section	| Elev-M	  | Completed| 
+|----------|:--------:|---------------------------------:|:------------:|---------:|				
 |1	|Brunswick Mountain	|Lions/Howe Sound Crest Trail Area	|1788	|Next|
 |	|Mount Hanover	|Lions/Howe Sound Crest Trail Area	|1748| |	
 |2	|Cathedral Mountain	|Lynn/Cathedral Range	|1737	| |
