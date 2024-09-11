@@ -31,3 +31,6 @@ In the beach, you played with the rocks by the river: making a fake chair made o
 We set up our tent and went to sleep. You started to have runny nose and was not feeling well. You woke up every hour crying. At one point, you woke up, sat down, and started passing out while sitting. I held your head while you slept sitting down. Around 6am, you got woken up by the sound of birds - the best alarm clock! One flew right above our tent; We could hear its strong wings flapping above us. It said "Plock, Plock." You immediately sat up and opened your eyes really wide, unsure of what to do. Then we laughed at it because it's just a bird and there is nothing to be scared of.
 
 Overall, the campsite was great. It was easy to hike in, there were plenty of sites available, it was easy to get a reservation, there were facilities available, there was a perfect amount of poeple - not too many that it was crowded and not too little that I was scared of wildlife, and the view of the river and mountains were beautiful.
+
+Love, 
+Mama
