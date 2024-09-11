@@ -5,11 +5,15 @@ categories:
 excerpt: |
   From peakbagger.com
 feature_text: |
-  ## Hiking List - North Shore, BC
+  ## Gamefying hiking
   From peakbagger.com
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
+
+Dearest Isay,
+
+Data is beautiful. When we're feeling stuck and wish to explore new places but do not know exactly where to go, this list helps us get inspired and start planning.
 
 
 | Rank	| Peak	| Section	| Elev-M	  | Completed| 
@@ -96,3 +100,15 @@ image: "https://picsum.photos/2560/600?image=733"
 |72	|Apodaca Peak	|Howe Sound Islands	|488	| |
 |73	|Mount Underhill	|Fannin Range	|451	| |
 |74	|Mount Collins	|Howe Sound Islands	|413	| |
+
+
+Other great lists from peakbagger.com:
+
+Original list: https://peakbagger.com/list.aspx?lid=5216 
+North Vancouver Ranges: https://peakbagger.com/range.aspx?rid=12138
+North Vanoucver Area: https://peakbagger.com/range.aspx?rid=121381
+Coquitlam Ranges: https://peakbagger.com/range.aspx?rid=121383 
+Golden Ears Ranges: https://peakbagger.com/range.aspx?rid=121384
+Fannin Range: https://peakbagger.com/range.aspx?rid=121382
+Canada National Parks: https://peakbagger.com/list.aspx?lid=1837
+
