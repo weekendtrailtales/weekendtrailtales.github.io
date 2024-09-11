@@ -13,7 +13,7 @@ image: "https://picsum.photos/2560/600?image=733"
 
 Dearest Isay,
 
-Data is beautiful. When we're feeling stuck and wish to explore new places but do not know exactly where to go, this list helps us get inspired and start planning.
+Data is beautiful. When we're feeling stuck and wish to explore new places but do not know exactly where to go, this list helps us get inspired and start planning!
 
 
 | Rank	| Peak	| Section	| Elev-M	  | Completed| 
