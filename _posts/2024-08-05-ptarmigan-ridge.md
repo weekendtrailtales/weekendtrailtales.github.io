@@ -18,7 +18,7 @@ image: "https://picsum.photos/2560/600?image=733"
 
 My sweet, little Isay,
 
-Early August, we left the house at 5am to cross the US border. The plan is to hike the Ptarmigan Ridge Trail - right next to Mt. Baker! We heard about the great views on this hike and have high expectations. We left you at Lola's house. It was Nico's first time crossing the border! The road up Mt. Baker Highway was steep, windy and a lot of portions were by the edge of the cliff. Now, I know why this road gets closed often when it snows. The drive from our house to the trailhead was about 2 hours. 
+Today, we left the house at 5am to cross the US border. The plan is to hike the Ptarmigan Ridge Trail - right next to Mt. Baker! We heard about the great views on this hike and have high expectations. We left you at Lola's house. It was Nico's first time crossing the border! The road up Mt. Baker Highway was steep, windy and a lot of portions were by the edge of the cliff. Now, I know why this road gets closed often when it snows. The drive from our house to the trailhead was about 2 hours. 
 
 At the trailhead, we soaked in the view of the sourrounding mountains: Mount Shuksan, Cascade Mountain Ranges and Mount Baker. The first 2 km of our hike was by the side of Table Mountain; We had an unobstracted view of unending mountain ranges. Chain Lakes Trail was flat and exposed to the sun. I imagine Lolo and Lola are able do this part of the trail. It seemed like nature has taken over: like this part of the world has been untouched by man's efforts to modernization. It was easy to look at the bottom of the mountain and activate my fear of heights, SCARY! As always, I just take it 1 small, secure step at a time. I trust myself.
 

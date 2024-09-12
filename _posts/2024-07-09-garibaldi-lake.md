@@ -18,7 +18,7 @@ image: "https://picsum.photos/2560/600?image=733"
 
 Dearest Isay,
 
-Back in July, we dropped you off at Auntie's place and Nico at Lola's place. Then, Mama and Daddy drove 2 hours to get to the Garibaldi Lake trailhead. 
+Today, we dropped you off at Auntie's place and Nico at Lola's place. Then, Mama and Daddy drove 2 hours to get to the Garibaldi Lake trailhead. 
 
 2 weeks ago, we luckily found an available reservation for Garibaldi camping. Even more amazing is that we got a pass right at the lake. We tried to book 4 months before the season started but it's so popular that the spots are fully booked right when the website opens. 
 
