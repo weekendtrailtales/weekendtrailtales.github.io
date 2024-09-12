@@ -6,7 +6,7 @@ feature_text: |
 ---
 
 
-HIKING
+                HIKING
 
 2024
   Devil's Peak
