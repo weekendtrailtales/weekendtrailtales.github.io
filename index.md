@@ -6,7 +6,7 @@ feature_text: |
 ---
 
 
-                HIKING
+HIKING
 
 2024
   Devil's Peak
@@ -94,6 +94,7 @@ feature_text: |
 
 
 CAMPING
+
 2024
     Derby Reach 
     Chilliwack Lake 
@@ -102,24 +103,28 @@ CAMPING
     Stave Lake - Kearsley Creek 
 	stavewestcampibg.com 
 	sitesandtrailsbc.ca
+
 2023
     *Baby
+
 2022
     Golden Ears
+
 2021
     Chilliwack Lake
     Golden Ears
+
 2020
     Cultus Lake
+
 2019
     Rathtrevor Beach
+
 2018
     Golden Ears
-2017
-2016
+
 2015
     Blue Lake
-2014
     
 
 
@@ -127,6 +132,7 @@ CAMPING
     
 
 BACKPACKING
+
 2024
     Garibaldi Lake
     Viewpoint Beach - Golden Ears 
@@ -136,20 +142,26 @@ BACKPACKING
     
 
 RUNNING
+
 2020
     *Covid
     First half
+
 2019
     BMO Full
     First Half
     Under Armour Eastside 10K
     St. Paddy's Run 5K
+
 2018
     BMO Full
+
 2017
     BMO Half
+
 2016
     Scotiabank Half
+
 2015 
     Seawheeze Half
 
@@ -158,41 +170,49 @@ RUNNING
     
 
 TRAVELLING
+
 2024
     Philippines
+
 2023
     Oahu, HI
+
 2022
     Key West, FL
     Sunshine Coast, BC
     Smithers, BC
+
 2021
     Smithers, BC
+
 2020
     *Covid
     Las Vegas, NV
+
 2019
     Sunshine Coast, BC    
+
 2018
     Tokyo/ Kyoto/ Osaka, Japan
     Victoria, BC
+
 2017
     Chiang Mai/ Chiang Rai/ Bangkok/ Krabi, Thailand
     Siem Reap, Cambodia
+
 2016
     Bali, Indonesia
     Philippines
     Portland, OR
+
 2015   
     Sandos Finistera > Los Cabos, Mexico
     Tofino, BC
+
 2014
     Banff, BC
     Calgary, AB
+
 2013
     Drumheller, AB
     Calgary, AB
-
-new
-new
-
