@@ -22,7 +22,7 @@ Today, we dropped you off at Auntie's place and Nico at Lola's place. Then, Mama
 
 2 weeks ago, we luckily found an available reservation for Garibaldi camping. Even more amazing is that we got a pass right at the lake. We tried to book 4 months before the season started but it's so popular that the spots are fully booked right when the website opens. 
 
-Garibaldi Lake is my favourite park - Mama and Daddy got engaged at Panorama Ridge, we signed the final contract for our home at the top of Black Tusk (it was the only place that had a signal to send an email!), the lake, the glacier and the mountains are so beautiful, and the additional challenge of hiking up to get there makes it even more majical. 
+Garibaldi Lake is my favourite park - Mama and Daddy got engaged at Panorama Ridge, we signed the final contract for our home at the top of Black Tusk (it was the only place that had a signal to send an email!), the lake, the glacier and the mountains are so beautiful, and the additional challenge of hiking up to get there makes it even more magical. 
 
 <!-- more -->
 
@@ -40,7 +40,7 @@ We prepared our dinner at the day shelter as it was getting cold. There was a fa
 
 After dinner, we hid our food (we have a bear vault), hanged our bags, and went to bed. We had a refreshing, delightful, cool and quiet night's sleep. It was amazing. I did wake up in the middle of the night and heard metal clanking. I imagine it was a bear trying to get to the food in the bear hangs. I knew we did not have any food or other attractants in our tent site so I happily went back to sleep. We also have bear spray in the tent. I used to be very scared of bears but I found that once I informed myself about the bear facts and behaviour, it made me understand them more and feel less irrational. This was similar to when I gave birth to you. I was at ease leading into the labour, since I did all the research I could do and I trusted myself and Daddy to make the right decisions if there were unexpected complications. I wish you would go about life's scaries the same way - arm yourself with knowledge and make the irrational rational. 
 
-In the morning, we had breakfast by the lake. It was so majical to be eating breakfast on the pretiest lake in the world. It was so quiet and serene. There was this fresh pine smell. I can hear chipmunks and birds in the background. It was just lovely. I imagine this is what heaven looks like. 
+In the morning, we had breakfast by the lake. It was so surreal to be eating breakfast on the pretiest lake in the world. It was so quiet and serene. There was this fresh pine smell. I can hear chipmunks and birds in the background. It was just lovely. I imagine this is what heaven looks like. 
 
 After breakfast, we got ready to hike to Panorama Ridge. I convinced Daddy that this will be the easiest hike to Panorama Ridge since we are saving 7km from the hike in. Surprise, surprise, it was still a very long hike! Luckily, we beat the crowd and the heat. We got to see the marmots before they started getting scared of the muggles. We saw a family of 4 marmots. The Daddy marmot was just sitting by their burrow and let us watch him go about his day. They are so fluffy and cute! There was also one angry marmot by a bush that kept barking at us. I assume they had babies they were trying to protect. We got out of there quickly to give them peace of mind. 
 
