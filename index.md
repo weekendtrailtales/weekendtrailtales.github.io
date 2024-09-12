@@ -20,6 +20,7 @@ HIKING
     Garibaldi Lake
     Panorama Ridge
     Buntzen Lake
+
 2023
     Eagle Mountain
     Hollyburn Mountain
