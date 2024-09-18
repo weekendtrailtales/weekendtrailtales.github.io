@@ -1,7 +1,7 @@
 ---
 title: Backpacking at Garibaldi Lake
 categories:
-- Backpacking, Gear
+- Backpacking
 excerpt: |
   Stats: 
     Distance: 10km, one way
