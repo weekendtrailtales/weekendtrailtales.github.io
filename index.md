@@ -1,5 +1,5 @@
 ---
-title: Welcome to our Weekend Adventures
+title: Welcome to our Adventures
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Weekend Trail Tales
