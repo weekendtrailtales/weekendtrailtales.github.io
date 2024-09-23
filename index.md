@@ -7,21 +7,21 @@ feature_text: |
 
 
 HIKING
-| Dy	| Area / Activity	| 
+
 |----------|:--------:|
-2024
-  Devil's Peak
-    Crooked Falls
-    Mt. Strachan
-    Mt. Seymour - Pump Peak, Tim Jones Peak
-    Devil's Peak
-    Ptarmigan Ridge
-    Deep Cove
-    Kennedy Falls
-    Jug Beach Island
-    Garibaldi Lake
-    Panorama Ridge
-    Buntzen Lake
+|2024|  |
+|   |  Devil's Peak|
+|   |      Crooked Falls
+|   |      Mt. Strachan
+|   |      Mt. Seymour - Pump Peak, Tim Jones Peak
+|   |      Devil's Peak
+|   |      Ptarmigan Ridge
+|   |      Deep Cove
+|   |      Kennedy Falls
+|   |      Jug Beach Island
+|   |      Garibaldi Lake
+|   |      Panorama Ridge
+|   |      Buntzen Lake
 
 2023
     Eagle Mountain
