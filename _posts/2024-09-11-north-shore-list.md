@@ -1,11 +1,12 @@
 ---
-title: Hiking List - North Shore, BC
+title: To Do List - Southwest, BC
 categories:
 - Hiking
+-Camping
 excerpt: |
   From peakbagger.com
 feature_text: |
-  ## Hiking List
+  ## Hiking & Camping List
   From peakbagger.com
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"

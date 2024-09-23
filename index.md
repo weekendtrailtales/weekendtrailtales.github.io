@@ -7,7 +7,8 @@ feature_text: |
 
 
 HIKING
-
+| Dy	| Area / Activity	| 
+|----------|:--------:|
 2024
   Devil's Peak
     Crooked Falls

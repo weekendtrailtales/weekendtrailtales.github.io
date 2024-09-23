@@ -21,8 +21,10 @@ We went on our 1st family vacation! We decided to go to Hawaii since it is only 
 We planned for a 7 day vacation (+ 1 travel day). There were a lot of things to do in Oahu, Hawaii! I researched a lot and looked for child-friendly options. I wanted to explore nature - I was very excited being surrounded by mountains and the ocean! Dada has been to Hawaii before, so he did not mind not going to the famous touristy spots. The perfect day for us would have been to hike in the morning and go to the beach in the afternoon. Here's our itinerary:
 
 8 day itinerary
-| Day	| Area / Activity	| 
+
+|   Day	| Area / Activity	| 
 |----------|:--------:|
+
 |Day 1|  Flight arrives at 7pm|
 |Day 2|  Area: Honolulu|
 |     |   Wiliwilinui Ridge Trail|
@@ -95,13 +97,27 @@ Day 5
 
 We set on to the hardest hike of our trip, the Kuli'ou'ou Ridge Trail. I don't remember much about the hike but I do remember a lot of stairs. From the viewpoint at the peak, we can see Hanauma Bay, Koko Crater and Diamond Head. It was very windy at the top. I had to make sure I was holding on to all of our stuff or they were gonna get blown away into the mountains. I also had to cover your eyes because of the loose gravel! 
 
+We rested for a bit in the hotel and headed to Waikiki beach. We all went to the water. Daddy and I saw a big turtle swimming near the beach. You loved playing with the water and the gentle waves crashing onto your belly. Daddy and I looked at the beautiful sunset for A VERY QUICK 5 SECONDS and when we looked back at you, you managed to grab a seaweed and put it in your mouth. SO FAST! You are such a funny little girl. We were laughing the entire time. 
+
 Day 6
 
 We had an easy day and did a short hike to Ehukai Pill Box. This used to be an old World War 2 bunker with views of the North Shore. We explored the rest of the trail and was suprised to find a bamboo forest, a moutain biking trail, and big boulders. 
 
-We contined on to Shark's Cove to snorkel. Unlike Hanauma Bay, the entrance to the water was a little sketchy and rocky. It also had a lot more people since it was free, unlike Hanauma Bay that had a fee and needed a reservation. I saw so many fish here! I did not go far but I saw different kinds of fish. I even saw a big school fish. I swam with them for a good 15 minutes (from a far) until a litte girl got too close and spooked them away. I wish you, Daddy and I were all watching them together. Meanwhile, you were napping with Daddy by the shore. When you woke up, Daddy and I switched turns swimming. He agreed there were more fish here than Hanauma Bay. He swam far again. Hearing sharks come here sometimes does not deter him!
+We contined on to Shark's Cove to snorkel. Unlike Hanauma Bay, the entrance to the water was a little sketchy and rocky. It also had a lot more people since it was free, unlike Hanauma Bay that had a fee and needed a reservation. I saw so many fish here! I did not go far and still I saw different kinds of fish. I even saw a big school fish. I swam with them for a good 15 minutes (from a far) until a litte girl got too close and spooked them away. I wish you, Daddy and I were all watching them together. Meanwhile, you were napping with Daddy by the shore. When you woke up, Daddy and I switched turns and he went to swim. He agreed there were more fish here than Hanauma Bay. He swam super far again. Learning that sharks come here sometimes, thus the name, did not deter him!
 
 Day 7
+
+This day was our touristy, laid back day. We went to Iolani Palace in the morning. We learned about the Kingdom of Hawaii, their last queen and her imprissonment. In the afternoon, we went to Diamond Head. The hike had an easy incline but the heat and the crowd line-ups made it hard. At the top, we saw the inside of the volcanic cone, explored more bunkers, learned it was used as a military lookout back in World War 2,  and saw the view of Waikiki Beach. 
+
+Day 8
+
+We packed our bags, checked out of the hotel, and loaded the car. Every morning when we would load our car, we wondered what other people thought of us; We had dirty clothes (we did not pack that much clothes!), muddy shoes, hiking poles, lots of water and A BABY! While all other hotel guests had flowery vacation mode clothes! It's funny but at the end of the day, Daddy and I did not care. This is the lifestyle we chose and it makes us happy! Hopefully, you find the beauty in nature, the joy of climbing mountains, and the strength in challenging yourself to go places most people won't. 
+
+We went to a luau - we watched dancers, singers, and drummers perform, we watched them roast a pig, we joined activities like peeling a coconut and braiding coconut leaves, and we were gifted leis. All while eating delicious lunch! We continued for a stroll at Waimea Valley. They had different kinds of plants and flowers, but lots of mosquitoes! At the end of the stroll, we saw Waimea Falls. 
+
+We had a long day, and we still had to fly home. We slept on the flight back. We got home at around 7am PST. Mom and Dad were so tired. We decided to take the train and it eneded up taking about 2 hours to get home. We are taking a cab next time!! We slept the rest of the day when we got home. 
+
+We were so tired but so so happy to get to spend 1 week fully present with each other and got to explore a beautiful place. 
 
 
 
