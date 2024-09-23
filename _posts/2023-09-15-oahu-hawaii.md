@@ -1,10 +1,10 @@
 ---
-title: Travelling - Oahu, Hawaii
+title: Travelling at Oahu, Hawaii
 categories:
 - Travelling
 - Hiking
 excerpt: |
-  
+You loved playing with the water and the gentle waves crashing onto your belly. Daddy and I looked at the beautiful sunset for A VERY QUICK 5 SECONDS and when we looked back at you, you managed to grab a seaweed and put it in your mouth. SO FAST! You are such a funny little girl. We were laughing the entire time.  
 feature_text: |
   ## Oahu, Hawaii
   Isay's 1st vacation
@@ -97,7 +97,7 @@ Day 5
 
 We set on to the hardest hike of our trip, the Kuli'ou'ou Ridge Trail. I don't remember much about the hike but I do remember a lot of stairs. From the viewpoint at the peak, we can see Hanauma Bay, Koko Crater and Diamond Head. It was very windy at the top. I had to make sure I was holding on to all of our stuff or they were gonna get blown away into the mountains. I also had to cover your eyes because of the loose gravel! 
 
-We rested for a bit in the hotel and headed to Waikiki beach. We all went to the water. Daddy and I saw a big turtle swimming near the beach. You loved playing with the water and the gentle waves crashing onto your belly. Daddy and I looked at the beautiful sunset for A VERY QUICK 5 SECONDS and when we looked back at you, you managed to grab a seaweed and put it in your mouth. SO FAST! You are such a funny little girl. We were laughing the entire time. 
+We rested for a bit in the hotel and headed to Waikiki beach. Daddy and I saw a big turtle swimming near the beach. We all went to the water. You loved playing with the water and the gentle waves crashing onto your belly. Daddy and I looked at the beautiful sunset for A VERY QUICK 5 SECONDS and when we looked back at you, you managed to grab a seaweed and put it in your mouth. SO FAST! You are such a funny little girl. We were laughing the entire time. 
 
 Day 6
 
