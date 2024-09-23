@@ -4,7 +4,7 @@ categories:
 - Travelling
 - Hiking
 excerpt: |
-You loved playing with the water and the gentle waves crashing onto your belly. Daddy and I looked at the beautiful sunset for A VERY QUICK 5 SECONDS and when we looked back at you, you managed to grab a seaweed and put it in your mouth. SO FAST! You are such a funny little girl. We were laughing the entire time.  
+Daddy and I looked at the beautiful sunset for A VERY QUICK 5 SECONDS and when we looked back at you, you managed to grab a seaweed and put it in your mouth. SO FAST!
 feature_text: |
   ## Oahu, Hawaii
   Isay's 1st vacation
