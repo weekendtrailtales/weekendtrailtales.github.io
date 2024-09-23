@@ -23,20 +23,20 @@ HIKING
 |   |      Panorama Ridge
 |   |      Buntzen Lake
 
-2023
-    Eagle Mountain
-    Hollyburn Mountain
-    BCMC
-    Norvan Falls
-    St. Mark's Summit
-    Lighthouse Park
-    Hawaii hikes
-	Wiliwilinui Ridge Trail
-	Koko Crater
-	Ma'akua Ridge Trail
-	Ehukai Pillbox
-	Kuli'ou'ou Ridge Trail
-	Diamond Head
+|2023|  |
+|   |    Eagle Mountain
+|   |        Hollyburn Mountain
+|   |        BCMC
+|   |        Norvan Falls
+|   |        St. Mark's Summit
+|   |        Lighthouse Park
+|   |        Hawaii hikes
+|   |    	    Wiliwilinui Ridge Trail
+|   |    	    Koko Crater
+|   |    	    Ma'akua Ridge Trail
+|   |    	    Ehukai Pillbox
+|   |    	    Kuli'ou'ou Ridge Trail
+|   |    	    Diamond Head
 
 2022
     *Pregnant
