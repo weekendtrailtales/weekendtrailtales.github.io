@@ -13,7 +13,7 @@ HIKING
 |   |  Devil's Peak|
 |   |      Crooked Falls
 |   |      Mt. Strachan
-|   |      Mt. Seymour - Pump Peak, Tim Jones Peak
+|   |      Mt. Seymour - Pump Peak, Tim Jones Peak, Mt. Seymour
 |   |      Devil's Peak
 |   |      Ptarmigan Ridge
 |   |      Deep Cove
@@ -24,13 +24,13 @@ HIKING
 |   |      Buntzen Lake
 
 |2023|  |
-|   |    Eagle Mountain
-|   |        Hollyburn Mountain
-|   |        BCMC
-|   |        Norvan Falls
-|   |        St. Mark's Summit
-|   |        Lighthouse Park
-|   |        Hawaii hikes
+|   |   Eagle Mountain
+|   |   Hollyburn Mountain
+|   |   BCMC
+|   |   Norvan Falls
+|   |   St. Mark's Summit
+|   |   Lighthouse Park
+|   |   Hawaii hikes
 |   |    	    Wiliwilinui Ridge Trail
 |   |    	    Koko Crater
 |   |    	    Ma'akua Ridge Trail
