@@ -24,14 +24,14 @@ HIKING
 |   |      Buntzen Lake
 
 |2023|  |
-|   |   Eagle Mountain
-|   |   Hollyburn Mountain
-|   |   BCMC
-|   |   Norvan Falls
-|   |   St. Mark's Summit
-|   |   Lighthouse Park
-|   |   Hawaii hikes
-|   |    	    Wiliwilinui Ridge Trail
+|   |Eagle Mountain
+|   |Hollyburn Mountain
+|   |BCMC
+|   |Norvan Falls
+|   |St. Mark's Summit
+|   |Lighthouse Park
+|   |Hawaii hikes
+|   |           Wiliwilinui Ridge Trail
 |   |    	    Koko Crater
 |   |    	    Ma'akua Ridge Trail
 |   |    	    Ehukai Pillbox
