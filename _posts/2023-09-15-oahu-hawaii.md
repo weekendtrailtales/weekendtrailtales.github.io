@@ -4,7 +4,12 @@ categories:
 - Travelling
 - Hiking
 excerpt: |
-Daddy and I looked at the beautiful sunset for A VERY QUICK 5 SECONDS and when we looked back at you, you managed to grab a seaweed and put it in your mouth. SO FAST!
+  Stats: 
+    Distance: 10km, one way
+    Elevation: 1000m
+    Time: 3.5hr
+    Difficulty: Moderate
+    Facilities: Washroom, Bear hangs, Day shelter, Water source (lake)
 feature_text: |
   ## Oahu, Hawaii
   Isay's 1st vacation
