@@ -3,7 +3,13 @@ title: Backpacking at Garibaldi Lake
 categories:
 - Backpacking
 excerpt: |
-In the morning, we had breakfast by the lake. It was so surreal to be eating breakfast on the pretiest lake in the world. It was so quiet and serene. There was this fresh pine smell. I can hear chipmunks and birds in the background. It was just lovely. I imagine this is what heaven looks like. 
+
+  Stats: 
+    Distance: 10km, one way
+    Elevation: 1000m
+    Time: 3.5hr
+    Difficulty: Moderate
+    Facilities: Washroom, Bear hangs, Day shelter, Water source (lake)
 
 feature_text: |
   ## Garibaldi Lake Campground
@@ -12,12 +18,6 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-  Stats: 
-    Distance: 10km, one way
-    Elevation: 1000m
-    Time: 3.5hr
-    Difficulty: Moderate
-    Facilities: Washroom, Bear hangs, Day shelter, Water source (lake)
 
 Dearest Isay,
 
