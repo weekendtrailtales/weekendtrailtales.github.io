@@ -38,56 +38,56 @@ HIKING
 |   |    	    Kuli'ou'ou Ridge Trail
 |   |    	    Diamond Head
 
-2022
-    *Pregnant
+|2022|
+|   |*Pregnant
 
-2021
-    Elk Mountain
-    Mount Thom
-    Lindemann Lake
-    Garibaldi Lake
-    Panorama Ridge
-    Sea to summit trail
+|2021|
+|    |Elk Mountain
+|    |Mount Thom
+|    |Lindemann Lake
+|    |Garibaldi Lake
+|    |Panorama Ridge
+|    |Sea to summit trail
 
-2020
-    Black Tusk
-    The Chief - Peak 1,2,3
-    Evan's Peak
+|2020|  
+|   |Black Tusk
+|   |The Chief - Peak 1,2,3
+|   |Evan's Peak
 
-2019
-    Attempt - Mt. Seymour
-    Attempt - Mt. Eliphinstone
-    Swan Falls
-    Mt. Cokely
-    Panorama Ridge
+|2019|
+|   |Attempt - Mt. Seymour
+|   |Attempt - Mt. Eliphinstone
+|   |Swan Falls
+|   |Mt. Cokely
+|   |Panorama Ridge
 
-2018
-    Mt. Finlayson
-    Railway Trestle
-    Lone Tree Hill
-    Mt. Gardner
-    Garibaldi Lake
+|2018|
+|   |Mt. Finlayson
+|   |Railway Trestle
+|   |Lone Tree Hill
+|   |Mt. Gardner
+|   |Garibaldi Lake
 
-2017
-    Garibaldi Lake
-    The Chief
+|2017|
+|   |Garibaldi Lake
+|   |The Chief
 
-2016
-    Garibaldi Lake
-    Diez Vistas
-    Joffre Lakes
-    Sea to Summit Trail
+|2016|
+|   |Garibaldi Lake
+|   |Diez Vistas
+|   |Joffre Lakes
+|   |Sea to Summit Trail
 
-2015
-    The Chief
-    Deep Cove
+|2015|
+|   |The Chief
+|   |Deep Cove
 
-2014
-    Lighthouse Park
-    Grouse Mountain
+|2014|
+|   |Lighthouse Park
+|   |Grouse Mountain
 
-2013
-    Grouse Mountain
+|2013|
+|   |Grouse Mountain
 
 
 
