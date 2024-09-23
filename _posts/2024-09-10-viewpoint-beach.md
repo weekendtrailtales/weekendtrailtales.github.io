@@ -3,19 +3,19 @@ title: Backpacking at Viewpoint Beach, Golden Ears Park
 categories:
 - Backpacking
 excerpt: |
-I held your head while you slept sitting down. Around 6am, you got woken up by the sound of birds - the best alarm clock! One flew right above our tent; We could hear its strong wings flapping above us. It said "Plock, Plock." You immediately sat up and opened your eyes really wide, unsure of what to do. Then we laughed at it because it's just a bird and there is nothing to be scared of.
-feature_text: |
-  ## Viewpoint Beach, Golden Ears Park
-  The perfect 1st timer's backpacking trip
-feature_image: "https://picsum.photos/2560/600?image=733"
-image: "https://picsum.photos/2560/600?image=733"
----
   Stats: 
     Distance: 5km 
     Elevation: 200m
     Time: 1.5hr
     Difficulty: Easy
     Facilities: Washroom, Bear cache, Water source (river)
+feature_text: |
+  ## Viewpoint Beach, Golden Ears Park
+  The perfect 1st timer's backpacking trip
+feature_image: "https://picsum.photos/2560/600?image=733"
+image: "https://picsum.photos/2560/600?image=733"
+---
+
 
 
 Dearest Isay,

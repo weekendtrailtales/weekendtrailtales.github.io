@@ -3,19 +3,19 @@ title: Hiking at Ptarmigan Ridge Trail
 categories:
 - Hiking
 excerpt: |
-We continued on, put on our microspikes and passed by snow patches. We started seeing wild flowers! Lots of purple, red, yellow! It started gradually getting uphill. It was hard. Finally, we were at the ridge! We had an amazing view of Mt. Baker and a 360 degree view of the glaciers and mountains.   
-feature_text: |
-  ## Ptarmigan Ridge Trail
-  Hiking in the US: Mount Baker Wilderness
-feature_image: "https://picsum.photos/2560/600?image=733"
-image: "https://picsum.photos/2560/600?image=733"
----
   Stats: 
     Distance: 19km, roundtrip
     Elevation gain: 750m
     Time: 8hr
     Difficulty: Moderate
     Facilities: Washroom at the trailhead, Water source (little creeks/ falls)
+
+feature_text: |
+  ## Ptarmigan Ridge Trail
+  Hiking in the US: Mount Baker Wilderness
+feature_image: "https://picsum.photos/2560/600?image=733"
+image: "https://picsum.photos/2560/600?image=733"
+---
 
     
 My sweet, little Isay,
