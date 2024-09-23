@@ -1,6 +1,7 @@
 ---
 title: Travelling - Oahu, Hawaii
 categories:
+- Travelling
 - Hiking
 excerpt: |
   
@@ -18,31 +19,35 @@ We went on our 1st family vacation! We decided to go to Hawaii since it is only 
 <!-- more -->
 
 We planned for a 7 day vacation (+ 1 travel day). There were a lot of things to do in Oahu, Hawaii! I researched a lot and looked for child-friendly options. I wanted to explore nature - I was very excited being surrounded by mountains and the ocean! Dada has been to Hawaii before, so he did not mind not going to the famous touristy spots. The perfect day for us would have been to hike in the morning and go to the beach in the afternoon. Here's our itinerary:
-Day 1:  Flight arrives at 7pm
-Day 2:  Area: Honolulu
-        Wiliwilinui Ridge Trail
-        Waikiki Beach
-Day 3:  Area: Windward
-        Hanauma Bay - snorkeling
-        Koko crater park
-Day 4:  Area: North Shore
-        Ma'akua Ridge Trail
-        Haleiwa Town - Matsumoto Shave Ice
-        Ka'ena Point
-Day 5:  Area: Windward
-        Kuli'ou'ou Ridge Trail
-        Waikiki Beach
-Day 6:  Area: North Shore
-        Ehukai Pill Box
-        Shark's Cove
-Day 7:  Area: Honolulu
-        Iolani Palace
-        Diamond Head
-        Waikiki Beach
-Day 8:  Area: North Shore
-        Toa Luau
-        Waimea Valley, Waimea Falls
-        Flight leaves at 10pm
+
+8 day itinerary
+| Day	| Area / Activity	| 
+|----------|:--------:|
+|Day 1|  Flight arrives at 7pm|
+|Day 2|  Area: Honolulu|
+|     |   Wiliwilinui Ridge Trail|
+|     |   Waikiki Beach|
+|Day 3|  Area: Windward|
+|     |   Hanauma Bay - snorkeling|
+|     |   Koko crater park|
+|Day 4|  Area: North Shore|
+|     |   Ma'akua Ridge Trail|
+|     |   Haleiwa Town - Matsumoto Shave Ice|
+|     |   Ka'ena Point|
+|Day 5|  Area: Windward|
+|     |   Kuli'ou'ou Ridge Trail|
+|     |  Waikiki Beach|
+|Day 6|  Area: North Shore|
+|     |   Ehukai Pill Box|
+|     |   Shark's Cove|
+|Day 7|  Area: Honolulu|
+|     |   Iolani Palace|
+|     |   Diamond Head|
+|     |   Waikiki Beach|
+|Day 8|  Area: North Shore|
+|     |   Toa Luau|
+|     |   Waimea Valley, Waimea Falls|
+|     |   Flight leaves at 10pm|
 
 Day 1
 
@@ -80,7 +85,28 @@ We reached the top at sunset! We had a 360 view of the SE side of the island. We
 
 Day 4
 
-Today, we went to Ma'akua Ridge Trail loop. We parked by the beach and started our hike, clockwise. Thankfully, this hike was covered by trees and had easy elevation inclines. There was a fruit bearing tree all over the place that gave the trail a sweet, delicous smell. It reminds of an apple or makopa. The hike was on the side of the mountain and had some views of the ocean on the eastern side of the mountain. The trail was marked and you can clearly see the footpath by previous hikers. At one point, we got lost. We started going around fallen trees and needing to make our own path. We checked the map and backtracked. On the western side of the mountain, we had a view of Hauula Forest Reserve. 
+Today, we went to Ma'akua Ridge Trail loop. We parked by the beach and started our hike, clockwise. This hike was covered by trees and had easy elevation inclines. There was a fruit bearing tree at the start of the hike that gave a sweet, delicous smell. It was a circular, red fruit, similar to an apple or a makopa. The hike was on the side of the mountain and had eastern side had views of the ocean. The trail was clearly marked and you can  see the footpath by previous hikers. We started going around fallen trees and needed to make our own path. At this point, we suspected we were lost. We checked the map and backtracked. We had lunch at a little creek. When we continued our hike on the western side of the mountain, we had a view of lush mountains of Hauula Forest Reserve. 
+
+Next stop was Haleiwa Town. We joined the line up at Matsumoto Shave Ice. It was one of the few touristy things we did on this trip :D
+
+We drove West to Ka'ena Point. It was long road and we did not see a lot of cars or houses asfter Haleiwa. We did a hort hike by the rocky shore. We didn't see any wildlife but whales and seals are sometimes spotted here. We were, however, still very happy to be watching the sunset by the amazing coastline and felt so close to nature.  
+
+Day 5
+
+We set on to the hardest hike of our trip, the Kuli'ou'ou Ridge Trail. I don't remember much about the hike but I do remember a lot of stairs. From the viewpoint at the peak, we can see Hanauma Bay, Koko Crater and Diamond Head. It was very windy at the top. I had to make sure I was holding on to all of our stuff or they were gonna get blown away into the mountains. I also had to cover your eyes because of the loose gravel! 
+
+Day 6
+
+We had an easy day and did a short hike to Ehukai Pill Box. This used to be an old World War 2 bunker with views of the North Shore. We explored the rest of the trail and was suprised to find a bamboo forest, a moutain biking trail, and big boulders. 
+
+We contined on to Shark's Cove to snorkel. Unlike Hanauma Bay, the entrance to the water was a little sketchy and rocky. It also had a lot more people since it was free, unlike Hanauma Bay that had a fee and needed a reservation. I saw so many fish here! I did not go far but I saw different kinds of fish. I even saw a big school fish. I swam with them for a good 15 minutes (from a far) until a litte girl got too close and spooked them away. I wish you, Daddy and I were all watching them together. Meanwhile, you were napping with Daddy by the shore. When you woke up, Daddy and I switched turns swimming. He agreed there were more fish here than Hanauma Bay. He swam far again. Hearing sharks come here sometimes does not deter him!
+
+Day 7
+
+
+
+
+
 
 
 
